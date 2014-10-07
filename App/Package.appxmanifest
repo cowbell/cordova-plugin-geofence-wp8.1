@@ -22,7 +22,7 @@
         <m3:SplashScreen Image="SplashScreenImage.jpg" />
       </m3:VisualElements>
       <Extensions>
-        <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundTasks.GeofenceTrigger">
+        <Extension Category="windows.backgroundTasks" EntryPoint="GeofenceComponent.GeofenceTrigger">
           <BackgroundTasks>
             <m2:Task Type="location" />
           </BackgroundTasks>

@@ -450,13 +450,9 @@
     <Content Include="www\views\settings.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BackgroundTasks\BackgroundTasks.csproj">
+    <ProjectReference Include="..\GeofenceComponent\GeofenceComponent.csproj">
       <Project>{5cf87b04-fc37-4111-a1e4-5f7c6569079b}</Project>
-      <Name>BackgroundTasks</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Core\Core.csproj">
-      <Project>{648d791f-9683-4c76-8284-c9216b033bd4}</Project>
-      <Name>Core</Name>
+      <Name>GeofenceComponent</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

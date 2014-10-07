@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>bd5c83fb-7692-431b-989c-e17ce6a8d15a</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)www\cordova.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\cordova_plugins.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\css\style.css" />
+    <Content Include="$(MSBuildThisFileDirectory)www\img\ionic.png" />
+    <Content Include="$(MSBuildThisFileDirectory)www\index.html" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\app.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\controllers.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\directives.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\services.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\vendor\angular-leaflet-directive.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\vendor\uuid.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\js\vendor\winstore-jscompat.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\css\ionic.css" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\css\ionic.min.css" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\fonts\ionicons.eot" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\fonts\ionicons.svg" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\fonts\ionicons.ttf" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\fonts\ionicons.woff" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular-ui\angular-ui-router.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular-ui\angular-ui-router.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular-animate.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular-animate.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular-resource.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular-resource.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular-sanitize.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular-sanitize.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\angular\angular.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\ionic-angular.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\ionic-angular.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\ionic.bundle.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\ionic.bundle.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\ionic.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\js\ionic.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\ionic.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\ionicons\ionicons.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\ionicons\_ionicons-animation.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\ionicons\_ionicons-font.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\ionicons\_ionicons-icons.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\ionicons\_ionicons-variables.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_action-sheet.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_animations.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_backdrop.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_badge.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_bar.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_button-bar.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_button.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_checkbox.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_form.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_grid.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_items.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_list.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_loading.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_menu.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_mixins.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_modal.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_platform.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_popover.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_popup.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_progress.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_radio.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_range.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_reset.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_scaffolding.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_select.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_slide-box.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_tabs.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_toggle.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_type.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_util.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\scss\_variables.scss" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\ionic\version.json" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\leaflet-0.7.3\leaflet.css" />
+    <Content Include="$(MSBuildThisFileDirectory)www\lib\leaflet-0.7.3\leaflet.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\com.borismus.webintent\www\webintent.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\com.cowbell.cordova.geofence\src\windows\GeofenceProxy.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\com.cowbell.cordova.geofence\www\geofence.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\com.ionic.keyboard\www\keyboard.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\com.vladstirbu.cordova.promise\www\promise.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.console\www\console-via-logger.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.console\www\logger.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.geolocation\src\windows\GeolocationProxy.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.geolocation\www\Coordinates.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.geolocation\www\geolocation.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.geolocation\www\Position.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\plugins\org.apache.cordova.geolocation\www\PositionError.js" />
+    <Content Include="$(MSBuildThisFileDirectory)www\views\geofence.html" />
+    <Content Include="$(MSBuildThisFileDirectory)www\views\geofences.html" />
+    <Content Include="$(MSBuildThisFileDirectory)www\views\settings.html" />
+  </ItemGroup>
+</Project>
